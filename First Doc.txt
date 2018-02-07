@@ -1,5 +1,0 @@
-1,althaf,mohammed,althaf@gmail.com,85022,math,235435,200,190
-3,masarrath,sultana,masarraht@gmail.com,31902,science,323243,300,290
-4,munawar,khan,munawar@gmail.com,33582,computers,435343,400,390
-5,farhan,mohammed,afarhan@gmail.com,85022,english,235435,550,540
-6,zuber,khan,zuber@gmail.com,33976,math,845653,120,110
